@@ -1,137 +1,49 @@
-# EqualStreetNames City Template
+# EqualStreetNames Wiesbaden
 
-If you want to replicate the EqualStreetNames project in your city, here is the how-to !
+This repository contains the [EqualStreetNames](https://equalstreetnames.org/) submodule
+for [Wiesbaden, Germany](https://www.wiesbaden.de).
 
-## Setup
+The map at [wiesbaden.equalstreetnames.eu](https://wiesbaden.equalstreetnames.eu) shows the streets and places in Wiesbaden, Germany, tagged with `name:etymology:wikidata`
+in [OpenStreetMap](https://www.openstreetmap.org) (and some additional data added locally), and visualizes the
+**gender-distribution** of their names.
 
-1. Click on the "Use this template" button above
+![Preview of the map](preview.png "A map showing highlighted, color-coded streets in Wiesbaden, Germany")
 
-1. Update the *Overpass* queries :
+You can contribute to OpenStreetMap by adding the tag `name:etymology:wikidata=<wikidata id>` (see below).
 
-    `overpass/relation-full-json` (*example for Brussels, Belgium*)
+This repository was generated from
+the [EqualStreetNames City Template](https://github.com/EqualStreetNames/equalstreetnames-template). If you want to
+replicate the EqualStreetNames project in your city, take a look at the how-to in that repository.
 
-    ```diff
-    - ( area["admin_level"=""]["wikidata"=""]; )->.a;
-    + ( area["admin_level"="8"]["wikidata"="Q12994"]; )->.a;
-    ```
+## Overpass Query and Editing Workflow
 
-    `overpass/way-full-json` (*example for Brussels, Belgium*)
+To download the data for all streets in Wiesbaden from OpenStreetMap (e.g. in [JOSM](https://josm.openstreetmap.de/) expert mode),
+this query can be used against an [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API):
 
-    ```diff
-    - ( area["admin_level"=""]["wikidata"=""]; )->.a;
-    + ( area["admin_level"="8"]["wikidata"="Q12994"]; )->.a;
-    ```
+```
+[out:xml][timeout:2500];
+{{geocodeArea:Wiesbaden}}->.searchArea;
+(
+  way["highway"]["name"](area.searchArea);>;
+  relation["highway"]["name"](area.searchArea);>;
+);
+out meta;
+```
 
-1. Find the *OpenStreetMap* relation of your city (example, [Brussels, Belgium](https://www.openstreetmap.org/relation/54094))
+You can then search this dataset in JOSM (`CTRL + F`) for a specific street, e.g. `type:way and Rheinstraße`, and add
+the `name:etymology:wikidata` key and value to the selected way/relation.
 
-1. Update `config.php` configuration file
+Similarly, a list in CSV format can be retrieved using [this Overpass Turbo query](https://overpass-turbo.eu/s/1equ).
+The result contains the `type` (`way` or `relation`), `id`, `name` and `name:etymology:wikidata` values of each street.
+This can be useful to (collaboratively) keep track of research/mapping progress.
 
-    1. **REQUIRED:** Add relation identifier (*example for Brussels, Belgium*).
+## Sources
 
-        ```diff
-        - 'relationId' => 0,
-        + 'relationId' => 54094,
-        ```
+In addition to on-site signs, these are some of the best sources for the origin of street names:
 
-    1. *Optional:* Choose languages in which you want to extract Wiki informations with `languages` (English `en` by default).
+* Personal- und Organisationsamt Wiesbaden, "Nach Persönlichkeiten benannte Straßen", 2018 [[Download PDF](https://piwi.wiesbaden.de/dokument/1/556779)].
+* Reiß, Thorsten (1996), Wiesbadens Straßennamen. Innenstadt und Klarenthal. Herkunft und Bedeutung. Thorsten Reiß
+  Verlag, Wiesbaden.
+* Glöckler, Peter-Michael (2021), Wiesbadener Straßennamen. Biebrich. Thorsten Reiß Verlag, Wiesbaden.
 
-    1. *Optional:* You can exclude ways or relations by adding the ways identifier in `exclude.way` and adding the relations identifier in `exclude.relation`.
-
-    1. *Optional:* You can manually assign a gender to a way or a relation by adding the ways identifier and its gender in `gender.way` and adding the relations identifier and its gender in `gender.relation`. You can also use `data.csv` file to assign gender (and details) to a way or relation (see below).
-
-    1. *Optional:* You can change the Wikidata instances that will be counted as "a person" with `instances`.
-
-1. You can link information to a relation or way using a `data.csv` CSV file (see [Brussels, Belgium CSV file](https://github.com/EqualStreetNames/equalstreetnames-brussels/blob/master/data.csv))
-
-    Structure:
-
-    - `type`: *OpenStreetMap* object type (relation/way)
-    - `id`: *OpenStreetMap* object identifier
-    - `name`: *OpenStreetMap* street name
-    - `gender`: Gender
-    - `person`: Name of the person
-    - `description`: Description of the person
-
-1. Update the HTML files (replace `MyCity` by the name of your city in **all** `index.html` files, add languages, ...).
-
-    (*example for Brussels, Belgium*)
-
-    ```diff
-    - <title>EqualStreetNames.MyCity</title>
-    + <title>EqualStreetNames.Brussels</title>
-
-    - <div id="loader-title">EqualStreetNames.MyCity</div>
-    + <div id="loader-title">EqualStreetNames.Brussels</div>
-
-    - <a class="navbar-brand" href="#">EqualStreetNames.MyCity</a>
-    + <a class="navbar-brand" href="#">EqualStreetNames.Brussels</a>
-    ```
-
-1. Optionally you can change the style using `data-style` attribute, it can be a Mapbox pre-defined style (see [API Reference](https://docs.mapbox.com/mapbox-gl-js/api/#map)) or your custom style (see [Style Specification](https://docs.mapbox.com/mapbox-gl-js/style-spec/)).
-
-    ```diff
-    - <div id="map"></div>;
-    + <div id="map" data-style="mapbox://styles/mapbox/dark-v10"></div>;
-    ```
-
-
-## Integrate your city to the project
-
-1. Let us know you're ready to add a new city to the project by [opening a new issue](https://github.com/EqualStreetNames/equalstreetnames/issues).
-
-1. You have 2 options:
-
-    1. Transfer your repository to the EqualStreetNames organization.
-
-       If you choose to do so, you stay of course "owner" of the repository, we'll create a team for you (and anyone you want) that will have admin rights on your repository.  
-       We'll help you maintain and manage your repository.  
-       We'll also setup an automated data update (once a month) and automated deployment of the website (if you need it). If you want more regular updates, you will need to create an `ACCESS_TOKEN` in your repository secrets with your [GitHub access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
-
-       For the automated deployment, you will need to create a `MAPBOX_TOKEN` in your repository secrets (see [Mapbox documentation](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)).
-
-    1. Keep the ownership of your repository.
-
-       We'll just link your repository as sub-module in the [`cities` folder](https://github.com/EqualStreetNames/equalstreetnames/tree/master/cities).  
-       You'll have to maintain your repository, update the data, and the sub-module yourself.
-
-## Run your city locally
-
-1. Clone the main repository
-
-    ```cmd
-    git clone https://github.com/EqualStreetNames/equalstreetnames.git
-    ```
-
-1. Copy/Link your repository in the `cities` folder of the main repository (`cities/my-country/my-city`).
-
-1. Run the data update (in the `process` folder of the main repository)
-
-    ```cmd
-    cd process/
-    composer install
-    composer run update-data -- --city=my-country/my-city
-    ```
-
-1. Run the website locally (in the root folder of the main repository)
-
-    1. Add your city in the `"scripts"` section of the `website/package.json` file
-
-        ```diff
-        + "build:my-country:my-city": "node build.js -c my-country/my-city"
-        ```
-
-    1. Create a [Mapbox token](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
-
-    1. Create a file named `.env` in the `website` directory of the project
-
-    1. Add the following line to the `.env` file: `MAPBOX_TOKEN=[your Mapbox token]` replacing `[your Mapbox token]` with the token you created
-
-    1. Install JavaScript dependencies and run it (in the `website` folder of the main repository)
-
-        ```cmd
-        cd website/
-        npm install
-        npm run build:my-country:my-city -- --serve
-        ```
-
-1. Open <http://localhost:1234/>
+The latter two books are available at the Wiesbaden public library ([Mauritius Mediathek](https://bond.wiesbaden.de/)).
