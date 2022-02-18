@@ -2,15 +2,30 @@ name,source,gender,wikidata,type
 Aarstraße,wikidata,,Q301029,way
 Ahornstraße,wikidata,,Q42292,way
 Ahornweg,wikidata,,Q42292,way
+"Am Airfield",wikidata,,Q327689,way
+"Am Fort Biehler",wikidata,,Q1438453,way
+"Am Hammerberg",wikidata,,Q96149473,way
 "Am Kaiser-Friedrich-Bad",wikidata,,Q1494272,way
+"Am Langelsweinberg",wikidata,,Q22715,way
+"Am Rebenhang",wikidata,,Q30046,way
 "Am Römertor",wikidata,,Q1739559,way
 "Am Warmen Damm",wikidata,,Q1668308,way
+"Am Weinberg",wikidata,,Q22715,way
+"Amöneburger Straße",wikidata,,Q463727,way
+"Amrumer Straße",wikidata,,Q3136,way
+"An den Quellen",wikidata,,Q177380,way
 "An der Igstadter Straße",wikidata,,Q316754,way
 "An der Kieskaut",wikidata,,Q504874,way
 "An der Ringkirche",wikidata,,Q463806,way
 "An der Taunusbahn",wikidata,,Q882275,way
+Angelsachsenstraße,wikidata,,Q32768,way
+Annastraße,wikidata,,Q666578,way
 Arizonastraße,wikidata,,Q816,way
+Aschenbrödelweg,wikidata,,Q11841,way
 "Assmannshäuser Straße",wikidata,,Q317535,way
+Asternweg,wikidata,,Q517130,way
+"Augsburger Straße",wikidata,,Q2749,way
+"Auringer Straße",wikidata,,Q463816,way
 "Bischofsheimer Straße",wikidata,,Q624456,way
 "Bregenzer Straße",wikidata,,Q1737,way
 Brunhildenstraße,wikidata,,Q850506,way
@@ -241,14 +256,11 @@ Wupperstraße,wikidata,,Q639374,way
 "Zaberner Straße",wikidata,,Q22741,way
 Zähringerstraße,wikidata,,Q247331,way
 Adlerstraße,,,,way
-Adolf-Lupp-Platz,,,,way
 Adolfinenstraße,,,,way
 Akazienstraße,,,,way
 Akazienweg,,,,way
 Albertsberg,,,,way
-Albertstraße,,,,way
 Alemannenstraße,,,,way
-Alfred-Schumann-Straße,,,,way
 "Allensteiner Weg",,,,way
 "Allgäuer Straße",,,,way
 Alsbachblick,,,,way
@@ -268,7 +280,6 @@ Alt-Auringen,,,,way
 Altkönigstraße,,,,way
 Altmühlstraße,,,,way
 Altmünsterstraße,,,,way
-"Am Airfield",,,,way
 "Am Allersberg",,,,way
 "Am Alten Weinberg",,,,way
 "Am Berggarten",,,,way
@@ -288,7 +299,6 @@ Altmünsterstraße,,,,way
 "Am Erkelsborn",,,,way
 "Am Felsenkeller",,,,way
 "Am Forsthaus",,,,way
-"Am Fort Biehler",,,,way
 "Am Gänsberg",,,,way
 "Am Gleisdreieck",,,,way
 "Am Gräselberg",,,,way
@@ -298,7 +308,6 @@ Altmünsterstraße,,,,way
 "Am Güldenplan",,,,way
 "Am Haingraben",,,,way
 "Am Hainpark",,,,way
-"Am Hammerberg",,,,way
 "Am Hang",,,,way
 "Am Heidestock",,,,way
 "Am Heienberg",,,,way
@@ -322,7 +331,6 @@ Altmünsterstraße,,,,way
 "Am Königsfloß",,,,way
 "Am Kupferberg",,,,way
 "Am Landeshaus",,,,way
-"Am Langelsweinberg",,,,way
 "Am Leiermann",,,,way
 "Am Lindenbach",,,,way
 "Am Lindenbaum",,,,way
@@ -341,7 +349,6 @@ Altmünsterstraße,,,,way
 "Am Pionierübungsplatz",,,,way
 "Am Rambacher Friedhof",,,,way
 "Am Rathaus",,,,way
-"Am Rebenhang",,,,way
 "Am Reiterhof",,,,way
 "Am Rheinbahnhof",,,,way
 "Am Ringwall",,,,way
@@ -366,7 +373,6 @@ Altmünsterstraße,,,,way
 "Am Wald",,,,way
 "Am Wartturm",,,,way
 "Am Wasserturm",,,,way
-"Am Weinberg",,,,way
 "Am Weinstock",,,,way
 "Am Wellinger",,,,way
 "Am Weyer",,,,way
@@ -376,12 +382,9 @@ Altmünsterstraße,,,,way
 "Am Zollstock",,,,way
 "Am alten Weinberg",,,,way
 "Amöneburger Kreisel",,,,way
-"Amöneburger Straße",,,,way
-"Amrumer Straße",,,,way
 Amselberg,,,,way
 "An Peters Ziegelei",,,,way
 "An den Drei Weiden",,,,way
-"An den Quellen",,,,way
 "An der Allee",,,,way
 "An der Alten Zündholzfabrik",,,,way
 "An der Aulenkaut",,,,way
@@ -403,33 +406,24 @@ Amselberg,,,,way
 "An der Stadtmauer",,,,way
 "An der alten Synagoge",,,,way
 Andreasstraße,,,,way
-Angelsachsenstraße,,,,way
 Angerweg,,,,way
 Anhalterweg,,,,way
 Ankertorstraße,,,,way
 Anna-Birle-Straße,,,,way
-Annastraße,,,,way
-Annemarie-Goßmann-Straße,,,,way
-Anton-Berges-Straße,,,,way
 Anton-Zeeh-Straße,,,,way
 Apfelweg,,,,way
 Äppelallee,,,,way
 Arcade,,,,way
 Armenruhstraße,,,,way
-Aschenbrödelweg,,,,way
-Asternweg,,,,way
 Aubachtal,,,,way
 Aubachweg,,,,way
 "Auf dem Bangert",,,,way
 "Auf den Erlen",,,,way
 "Auf der Ahl",,,,way
 "Auf der Eich",,,,way
-"Augsburger Straße",,,,way
 "Augusta Loop",,,,way
 Aukammallee,,,,way
-Aumannstraße,,,,way
 Aunelstraße,,,,way
-"Auringer Straße",,,,way
 Bachgasse,,,,way
 Bachstraße,,,,way
 Bachtreppchen,,,,way
@@ -1246,6 +1240,7 @@ Siebenmorgenweg,,,,way
 Siegfried-Kunze-Weg,,,,way
 Sieglindeweg,,,,way
 Siegmundweg,,,,way
+Simeonweg,,,,way
 Sommerstraße,,,,way
 Sonnenblumenweg,,,,way
 Sonnenhöhe,,,,way
