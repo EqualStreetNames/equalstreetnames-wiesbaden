@@ -26,10 +26,30 @@ Aschenbrödelweg,wikidata,,Q11841,way
 Asternweg,wikidata,,Q517130,way
 "Augsburger Straße",wikidata,,Q2749,way
 "Auringer Straße",wikidata,,Q463816,way
+Backfischgasse,wikidata,,Q798414,way
+Bahnhofsplatz,wikidata,,Q667121,relation+way
+Bahnhofstraße,wikidata,,Q2569298,way
+"Baltrumer Straße",wikidata,,Q25125,way
+Baumstraße,wikidata,,Q10884,way
+Bayernstraße,wikidata,,Q980,way
+Begonienweg,wikidata,,Q158617,way
+"Berliner Straße",wikidata,,Q64,way
+"Beuthener Straße",wikidata,,Q102350,way
+"Biebricher Straße",wikidata,,Q656680,way
+Birkenstraße,wikidata,,Q25243,way
 "Bischofsheimer Straße",wikidata,,Q624456,way
+"Borkumer Straße",wikidata,,Q17075271,way
+"Brabanter Straße",wikidata,,Q1122,way
 "Bregenzer Straße",wikidata,,Q1737,way
+Bremenstraße,wikidata,,Q24879,way
+"Bremthaler Straße",wikidata,,Q908503,way
+"Bremthaler Weg",wikidata,,Q908503,way
+"Breslauer Straße",wikidata,,Q1799,way
+Brombeerweg,wikidata,,Q19842373,way
 Brunhildenstraße,wikidata,,Q850506,way
+Buchenstraße,wikidata,,Q25403,way
 Burgunderstraße,wikidata,,Q150412,way
+Butterblumenweg,wikidata,,Q237884,way
 Californiastraße,wikidata,,Q99,way
 Camozzistraße,wikidata,,Q107552213,way
 Castellumstraße,wikidata,,Q18286569,way
@@ -233,6 +253,7 @@ Texasstraße,wikidata,,Q1439,way
 Ulmenstraße,wikidata,,Q59779164,way
 "Villacher Straße",wikidata,,Q483522,way
 Virginiastraße,wikidata,,Q1370,way
+Waldhofstraße,wikidata,,Q2050766,way
 Walkmühlstraße,wikidata,,Q108260208,way
 "Wallauer Hohl",wikidata,,Q2542588,way
 "Wallauer Straße",wikidata,,Q2542588,way
@@ -428,46 +449,32 @@ Bachgasse,,,,way
 Bachstraße,,,,way
 Bachtreppchen,,,,way
 Bachweg,,,,way
-Backfischgasse,,,,way
-Bahnhofsplatz,,,,relation+way
-Bahnhofstraße,,,,way
 Bahnholzstraße,,,,way
 Bahnstraße,,,,way
-"Baltrumer Straße",,,,way
 Bandkeramikerweg,,,,way
 Bangertstraße,,,,way
 Barbarossastraße,,,,way
 Barfusspfad,,,,way
 Baumgarten,,,,way
-Baumstraße,,,,way
 Bauwaldweg,,,,way
-Bayernstraße,,,,way
 Bechtewaldweg,,,,way
-Begonienweg,,,,way
-Behringstraße,,,,way
 Beinstraße,,,,way
 Belzbachweg,,,,way
 Bergmannstraße,,,,way
 Bergstraße,,,,way
 Bergwiesenstraße,,,,way
-Berlichingenstraße,,,,way
 "Berliner Strasse",,,,way
-"Berliner Straße",,,,way
 Bernsteinstraße,,,,way
 Berschelsche,,,,way
 "Berstädter Grabenweg",,,,way
 "Berstädter Weg",,,,way
 Bethelstraße,,,,way
-"Beuthener Straße",,,,way
 "Biebricher Allee",,,,way
-"Biebricher Straße",,,,way
-Biegerstraße,,,,way
 Bierhausweg,,,,way
 "Bierstadter Höhe",,,,way
 "Bierstadter Straße",,,,way
 Bingertstraße,,,,way
 Birgidstraße,,,,way
-Birkenstraße,,,,way
 Birnenweg,,,,way
 Blaumeisenweg,,,,way
 Bleichstraße,,,,way
@@ -479,20 +486,13 @@ Bodelschwinghstraße,,,,way
 Bogengasse,,,,way
 Borkestraße,,,,way
 "Borkholder Straße",,,,way
-"Borkumer Straße",,,,way
 Bornbaum,,,,way
 Bornstraße,,,,way
 Borsigstraße,,,,way
 Böttcherweg,,,,way
-"Brabanter Straße",,,,way
 "Brandenburger Straße",,,,way
 "Breckenheimer Straße",,,,way
 "Breckenheimer Weg",,,,way
-Bremenstraße,,,,way
-"Bremthaler Straße",,,,way
-"Bremthaler Weg",,,,way
-"Breslauer Straße",,,,way
-Brombeerweg,,,,way
 Brücherweg,,,,way
 Bruchstraße,,,,way
 Bruchstück,,,,way
@@ -502,18 +502,13 @@ Brühlstraße,,,,way
 Brunnengasse,,,,way
 Brunnenstraße,,,,way
 Brunnenweg,,,,way
-Buchenstraße,,,,way
 Buchenwaldstraße,,,,way
 Buchenweg,,,,way
-Büchnerstraße,,,,way
-Bunsenstraße,,,,way
 Burglindenstraße,,,,way
 Burgstraße,,,,way
 Burgunderweg,,,,way
 Burgweg,,,,way
 Bürschgartenstraße,,,,way
-Buschungstraße,,,,way
-Butterblumenweg,,,,way
 Carl-Frenger-Steige,,,,way
 Chaisenweg,,,,way
 Chattenstraße,,,,way
@@ -1350,7 +1345,6 @@ Wacholderstraße,,,,way
 Wachsackerstraße,,,,way
 Wachtelweg,,,,way
 Waldblickstraße,,,,way
-Waldhofstraße,,,,way
 Waldstraße,,,,way
 Waldweg,,,,way
 Walkmühltalanlagen,,,,way
