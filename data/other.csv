@@ -51,7 +51,6 @@ Buchenstraße,wikidata,,Q25403,way
 Burgunderstraße,wikidata,,Q150412,way
 Butterblumenweg,wikidata,,Q237884,way
 Californiastraße,wikidata,,Q99,way
-Camozzistraße,wikidata,,Q107552213,way
 Castellumstraße,wikidata,,Q18286569,way
 Chaisenweg,wikidata,,Q535863,way
 "Charlottenburger Straße",wikidata,,Q162049,way
@@ -60,6 +59,7 @@ Cheruskerweg,wikidata,,Q268307,way
 "Christdorfer Straße",wikidata,,Q632967,way
 "Colmarer Straße",wikidata,,Q130994,way
 Costloffstraße,wikidata,,Q1136517,way
+Dachsteinstraße,wikidata,,Q686841,way
 "Danziger Straße",wikidata,,Q1792,way
 "Darmstädter Landstraße",wikidata,,Q2973,way
 "Delkenheimer Straße",wikidata,,Q316758,way
@@ -119,6 +119,7 @@ Flößerweg,wikidata,,Q22819,way
 "Fondetter Straße",wikidata,,Q527676,way
 "Frankfurter Straße",wikidata,,Q1794,way
 Freesienweg,wikidata,,Q157392,way
+Fritz-Erler-Straße,wikidata,,Q1550187,way
 "Geisenheimer Straße",wikidata,,Q558516,way
 Gerlitzenstraße,wikidata,,Q476184,way
 Geschwister-Scholl-Straße,wikidata,,Q566212,way
@@ -266,7 +267,6 @@ Soonwaldstraße,wikidata,,Q2302569,way
 "Spandauer Straße",wikidata,,Q569827,way
 Speierlingstraße,wikidata,,Q159558,way
 Spessartstraße,wikidata,,Q182470,way
-"Spiekerooger Straße",wikidata,,Q25130,way
 Spitzrabauweg,wikidata,,Q15848195,way
 Steigerwaldstraße,wikidata,,Q15079119,way
 "Steinberger Straße",wikidata,,Q2340011,way
@@ -290,7 +290,6 @@ Virginiastraße,wikidata,,Q1370,way
 Waldhofstraße,wikidata,,Q2050766,way
 Walkmühlstraße,wikidata,,Q108260208,way
 Walkmühltalanlagen,wikidata,,Q108260208,way
-"Wallauer Hohl",wikidata,,Q2542588,way
 "Wallauer Straße",wikidata,,Q2542588,way
 "Wallauer Weg",wikidata,,Q2542588,way
 "Wallufer Platz",wikidata,,Q634161,way
@@ -311,6 +310,7 @@ Wörthstraße,wikidata,,Q684479,way
 Wupperstraße,wikidata,,Q639374,way
 "Zaberner Straße",wikidata,,Q22741,way
 Zähringerstraße,wikidata,,Q247331,way
+10-Minuten-Weg,,,,way
 Adlerstraße,,,,way
 Adolfinenstraße,,,,way
 Akazienstraße,,,,way
@@ -319,10 +319,11 @@ Albertsberg,,,,way
 Alemannenstraße,,,,way
 "Allensteiner Weg",,,,way
 "Allgäuer Straße",,,,way
+Alsbach,,,,way
 Alsbachblick,,,,way
 Alsenstraße,,,,way
+"Alt Auringen",,,,way
 "Alt Medenbach",,,,way
-Alt-Auringen,,,,way
 "Alte Brücke",,,,way
 "Alte Dorfstraße",,,,way
 "Alte Idsteiner Straße",,,,way
@@ -387,6 +388,7 @@ Altmünsterstraße,,,,way
 "Am Königsfloß",,,,way
 "Am Kupferberg",,,,way
 "Am Landeshaus",,,,way
+"Am Langenmorgen",,,,way
 "Am Leiermann",,,,way
 "Am Lindenbach",,,,way
 "Am Lindenbaum",,,,way
@@ -414,8 +416,9 @@ Altmünsterstraße,,,,way
 "Am Roten Berg",,,,way
 "Am Rübenberg",,,,way
 "Am Ruhwehr",,,,way
+"Am Sägewerk",,,,way
 "Am Scheuerling",,,,way
-"Am Schloßberg",,,,way
+"Am Schlossberg",,,,way
 "Am Schloßpark",,,,way
 "Am Schlupfloch",,,,way
 "Am Simmler",,,,way
@@ -436,7 +439,6 @@ Altmünsterstraße,,,,way
 "Am Wingert",,,,way
 "Am Wolfsfeld",,,,way
 "Am Zollstock",,,,way
-"Am alten Weinberg",,,,way
 "Amöneburger Kreisel",,,,way
 Amselberg,,,,way
 "An Peters Ziegelei",,,,way
@@ -647,7 +649,6 @@ Friedrich-Passage,,,,way
 "Friesacher Straße",,,,way
 Friesenweg,,,,way
 Fritz-Diehl-Platz,,,,way
-Fritz-Erler-Straße,,,,way
 Froschkönigweg,,,,way
 Frühlingsstraße,,,,way
 Fuchsstraße,,,,way
@@ -711,11 +712,13 @@ Häherweg,,,,way
 Hahnemannstraße,,,,way
 Haideweg,,,,way
 Hainbuchenweg,,,,way
+"Haingraben New-York-Str. Wiesbaden",,,,way
 Hainweg,,,,way
 "Hambacher Straße",,,,way
 Hamburgstraße,,,,way
 Hambuschstraße,,,,way
 Hambuschweg,,,,way
+Hans-Jakob-Koch-Allee,,,,way
 Hans-Römer-Platz,,,,way
 Hänselweg,,,,way
 Hardtstraße,,,,way
@@ -759,7 +762,6 @@ Hinterbergstraße,,,,way
 "Hintere Steinchenstraße",,,,way
 Hirschgartenstraße,,,,way
 Hirschgraben,,,,way
-Hirtengasse,,,,way
 Hirtenstraße,,,,way
 Hochstättenstraße,,,,way
 Hochstraße,,,,way
@@ -800,6 +802,7 @@ Iltisweg,,,,way
 "Im Boden",,,,way
 "Im Brückfeld",,,,way
 "Im Gebück",,,,way
+"Im Gierengewann",,,,way
 "Im Hasengarten",,,,way
 "Im Hopfengarten",,,,way
 "Im Klaf",,,,way
@@ -854,11 +857,13 @@ Kappenbergweg,,,,way
 Kappesgarten,,,,way
 Karl-Arnold-Straße,,,,way
 Karl-Pracht-Straße,,,,way
+"Karlsbader Weg",,,,way
 Karrnweg,,,,way
 Kastanienallee,,,,way
 Kastanienweg,,,,way
 "Kasteler Museumsufer",,,,way
 Kastellstraße,,,,way
+Kegelbahnweg,,,,way
 Kehrstraße,,,,way
 Keilsbaum,,,,way
 Kellershohl,,,,way
@@ -1045,7 +1050,6 @@ Napoleonbrücke,,,,way
 Narzissenweg,,,,way
 Nasengasse,,,,way
 "Nassauer Straße",,,,way
-Nassaustraße,,,,way
 "Nauroder Straße",,,,way
 Neckarstraße,,,,way
 Nelkenstraße,,,,way
@@ -1137,6 +1141,7 @@ Rhein-Main-Schnellweg,,,,way
 Rheinblickstraße,,,,way
 "Rheingauer Pfad",,,,way
 Rheingoldstraße,,,,way
+Rheinhöhenweg,,,,way
 Rheinhüttenstraße,,,,way
 Rheinlandstraße,,,,way
 Rheinparkstraße,,,,way
@@ -1201,6 +1206,7 @@ Schleiermacherstraße,,,,way
 Schlesierstraße,,,,way
 Schleswigstraße,,,,way
 Schleusenstraße,,,,way
+Schlossgasse,,,,way
 Schlossplatz,,,,relation+way
 Schloßgasse,,,,way
 Schmalweg,,,,way
@@ -1245,6 +1251,7 @@ Spechtweg,,,,way
 Spelzmühlweg,,,,way
 Sperberweg,,,,way
 Spiegelgasse,,,,way
+"Spiekerooger Straße",,,,way
 Sportplatzweg,,,,way
 "St. Veiter Platz",,,,way
 Starenweg,,,,way
@@ -1326,6 +1333,7 @@ Utestraße,,,,way
 Veilchenweg,,,,way
 Venusstraße,,,,way
 Verbindungsstraße,,,,way
+Verbindungsweg,,,,way
 Vereinstraße,,,,way
 Vergißmeinnichtweg,,,,way
 "Via Principalis",,,,way
