@@ -198,6 +198,7 @@ Marktstraße,wikidata,,Q13592976,way
 Maulbeerweg,wikidata,,Q44789,way
 Mauritiusplatz,wikidata,,Q1567223,way
 Mauritiusstraße,wikidata,,Q1567223,way
+Mauritusplatz,wikidata,,Q1567223,way
 "Medenbacher Straße",wikidata,,Q880733,way
 "Metzer Straße",wikidata,,Q22690,way
 Mississippistraße,wikidata,,Q1494,way
@@ -250,7 +251,6 @@ Saarstraße,wikidata,,Q153972,way
 "Salzburger Straße",wikidata,,Q34713,way
 San-Sebastian-Platz,wikidata,,Q10313,way
 "Scharfensteiner Straße",wikidata,,Q1013854,way
-Scharfensteinerstraße,wikidata,,Q1013854,way
 "Schiersteiner Brücke",wikidata,,Q478142,way
 "Schiersteiner Straße",wikidata,,Q478142,way
 "Schlangenbader Straße",wikidata,,Q624446,way
@@ -407,7 +407,6 @@ Altmünsterstraße,,,,way
 "Am Pionierübungsplatz",,,,way
 "Am Rambacher Friedhof",,,,way
 "Am Rathaus",,,,way
-"Am Reiterhof",,,,way
 "Am Rheinbahnhof",,,,way
 "Am Ringwall",,,,way
 "Am Rinker",,,,way
@@ -492,6 +491,7 @@ Bahnstraße,,,,way
 Bandkeramikerweg,,,,way
 Bangertstraße,,,,way
 Barbarossastraße,,,,way
+Bärenstraße,,,,way
 Barfusspfad,,,,way
 Baumgarten,,,,way
 Bauwaldweg,,,,way
@@ -569,7 +569,6 @@ Dr.-Fritz-Gontermann-Straße,,,,way
 Dr.-Werner-Jopp-Platz,,,,way
 Drei-Lilien-Platz,,,,way
 Dreiherrenstein,,,,way
-Dreililienplatz,,,,way
 Dreispitzstraße,,,,way
 Dreiweidenstraße,,,,way
 Drudenstraße,,,,way
@@ -649,6 +648,7 @@ Friedrich-Passage,,,,way
 "Friesacher Straße",,,,way
 Friesenweg,,,,way
 Fritz-Diehl-Platz,,,,way
+Fritz-Hußler-Straße,,,,way
 Froschkönigweg,,,,way
 Frühlingsstraße,,,,way
 Fuchsstraße,,,,way
@@ -956,7 +956,6 @@ Kurt-Lonquich-Straße,,,,way
 Kussalle,,,,way
 Lachebrücke,,,,way
 Lämmersberg,,,,way
-Ländchen,,,,way
 Ländchenweg,,,,way
 Landgrabenstraße,,,,way
 "Landsberger Straße",,,,way
@@ -1066,6 +1065,7 @@ Neustraße,,,,way
 Niederfeldstraße,,,,way
 Nixenstraße,,,,way
 Nußbaumstraße,,,,way
+"Ober der Kappesmühle",,,,way
 Oberbergstraße,,,,way
 "Obere Kirschgartenstraße",,,,way
 "Obere Webergasse",,,,way
@@ -1209,6 +1209,7 @@ Schleusenstraße,,,,way
 Schlossgasse,,,,way
 Schlossplatz,,,,relation+way
 Schloßgasse,,,,way
+Schloßplatz,,,,way
 Schmalweg,,,,way
 Schneebergstraße,,,,way
 Schneewittchenweg,,,,way
@@ -1341,6 +1342,7 @@ Vogelsangstraße,,,,way
 Vogelsbergstraße,,,,way
 Vogesenstraße,,,,way
 Volkerstraße,,,,way
+"Vor dem Sand",,,,way
 "Vor dem Wald",,,,way
 "Vor den Fichten",,,,way
 "Vordere Kirschgartenstraße",,,,way
