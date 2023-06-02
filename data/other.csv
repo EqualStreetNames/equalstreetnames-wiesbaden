@@ -108,17 +108,26 @@ Etzelstraße,wikidata,,Q5850202,way
 Eulenstraße,wikidata,,Q8021345,way
 "Eupener Straße",wikidata,,Q151831,way
 "Faaker Straße",wikidata,,Q19932786,way
+Falkenstraße,wikidata,,Q43489,way
+Feldbergstraße,wikidata,,Q677873,way
+Fenchelring,wikidata,,Q43511,way
 Fichtelgebirgsstraße,wikidata,,Q157728,way
+Finkenweg,wikidata,,Q14517970,way
 "Fischbacher Straße",wikidata,,Q1419741,way
 Flandernstraße,wikidata,,Q234,way
 "Flensburger Straße",wikidata,,Q3798,way
+Fliederweg,wikidata,,Q6565319,way
 Floridastraße,wikidata,,Q812,way
 "Flörsheimer Straße",wikidata,,Q622593,way
 Flößerweg,wikidata,,Q22819,way
 "Föhrer Straße",wikidata,,Q3127,way
 "Fondetter Straße",wikidata,,Q527676,way
+Frankenstraße,wikidata,,Q43482,way
 "Frankfurter Straße",wikidata,,Q1794,way
+Frau-Holle-Weg,wikidata,,Q11853,way
+"Frauensteiner Straße",wikidata,,Q478097,way
 Freesienweg,wikidata,,Q157392,way
+"Friesacher Straße",wikidata,,Q871601,way
 Fritz-Erler-Straße,wikidata,,Q1550187,way
 "Geisenheimer Straße",wikidata,,Q558516,way
 Gerlitzenstraße,wikidata,,Q476184,way
@@ -148,6 +157,7 @@ Hunsrückstraße,wikidata,,Q311234,way
 Ingrid-Marie-Weg,wikidata,,Q486425,way
 "Innsbrucker Straße",wikidata,,Q1735,way
 Jacob-Lebel-Weg,wikidata,,Q280823,way
+Jawlenskystraße,wikidata,,Q156426,way
 "Johannisberger Straße",wikidata,,Q1698901,way
 "Juister Straße",wikidata,,Q24846,way
 "K 647 Sonnenberger Straße",wikidata,,Q478103,way
@@ -598,7 +608,6 @@ Erbsenacker,,,,way
 Erlenstraße,,,,way
 Ernst-Göbel-Straße,,,,way
 Fabrikstraße,,,,way
-Falkenstraße,,,,way
 Falkenweg,,,,way
 "Farmer Loop",,,,way
 Fasanenweg,,,,way
@@ -608,20 +617,15 @@ Faßbinderstraße,,,,way
 Faulbrunnenplatz,,,,way
 Faulbrunnenstraße,,,,way
 Feldbergblick,,,,way
-Feldbergstraße,,,,way
 Feldbrandstraße,,,,way
 Feldschützstraße,,,,way
 Feldstraße,,,,way
 Felsenstraße,,,,way
-Fenchelring,,,,way
 Fichtenweg,,,,way
-Finkenweg,,,,way
 "Finnenbahn Rheinblick",,,,way
 Fischzuchtweg,,,,way
 Flachslandstraße,,,,way
 Flachstraße,,,,way
-Flemingstraße,,,,way
-Fliederweg,,,,way
 Floßhafenstraße,,,,way
 Flurstraße,,,,way
 Flutgraben,,,,way
@@ -629,13 +633,8 @@ Föhrenweg,,,,way
 "Fontis Loop",,,,way
 Forststraße,,,,way
 "Fowler Loop",,,,way
-Frank-Wedekind-Straße,,,,way
-Frankenstraße,,,,way
 Frankenwaldstraße,,,,way
 Frankenweg,,,,way
-Franklin-Roosevelt-Straße,,,,way
-Frau-Holle-Weg,,,,way
-"Frauensteiner Straße",,,,way
 "Frauensteiner Straße 111",,,,way
 Frauenstraße,,,,way
 "Freiburger Straße",,,,way
@@ -644,7 +643,6 @@ Friedenstraße,,,,way
 Friedhofstraße,,,,way
 Friedhofsweg,,,,way
 Friedrich-Passage,,,,way
-"Friesacher Straße",,,,way
 Friesenweg,,,,way
 Fritz-Diehl-Platz,,,,way
 Fritz-Hußler-Straße,,,,way
@@ -1180,6 +1178,8 @@ Saalgasse,,,,way
 Sachsenstraße,,,,way
 Sackgasse,,,,way
 Salierstraße,,,,way
+"Salzbachtalbrücke (Nord)",,,,way
+"Salzbachtalbrücke (Süd)",,,,way
 Salzstraße,,,,way
 Sandbachstraße,,,,way
 Sandbornstraße,,,,way

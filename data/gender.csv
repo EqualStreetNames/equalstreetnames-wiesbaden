@@ -142,10 +142,13 @@ Ferrutiusplatz,wikidata,M,Q829932,way
 Feuerbachstraße,wikidata,M,Q250194,way
 Fichtestraße,wikidata,M,Q102585,way
 Fischerstraße,wikidata,M,Q1597228,way
+Flemingstraße,wikidata,M,Q37064,way
 Fliednerstraße,wikidata,M,Q77814,way
 Florian-Geyer-Straße,wikidata,M,Q77407,way
 Flotowstraße,wikidata,M,Q155425,way
 Fontanestraße,wikidata,M,Q76632,way
+Frank-Wedekind-Straße,wikidata,M,Q57619,way
+Franklin-Roosevelt-Straße,wikidata,M,Q8007,way
 Franz-Abt-Straße,wikidata,M,Q174178,way
 Frauenlobstraße,wikidata,M,Q62702,way
 Freiherr-vom-Stein-Straße,wikidata,M,Q213542,way
@@ -157,7 +160,7 @@ Friedrich-Engels-Weg,wikidata,M,Q34787,way
 Friedrich-Naumann-Straße,wikidata,M,Q76811,way
 Friedrich-Otto-Straße,wikidata,M,Q19275090,way
 Friedrich-von-Thiersch-Weg,wikidata,M,Q75204,way
-Friedrichstraße,wikidata,M,Q79789,way
+Friedrichstraße,wikidata,M,Q214040;Q79789,way
 Fritz-Haber-Straße,wikidata,M,Q57075,way
 Fritz-Kalle-Straße,wikidata,M,Q1425945,way
 Fritz-Philippi-Straße,wikidata,M,Q1467771,way
@@ -235,7 +238,6 @@ Humboldtstraße,wikidata,M,Q6694,way
 Humperdinckstraße,wikidata,M,Q55010,way
 Jahnstraße,wikidata,M,Q77098,way
 Jakob-Kaiser-Straße,wikidata,M,Q64531,way
-Jawlenskystraße,wikidata,M,Q156426,way
 Jean-Monnet-Straße,wikidata,M,Q159700,way
 Joachim-Ringelnatz-Straße,wikidata,M,Q552038,way
 Johann-Sebastian-Bach-Straße,wikidata,M,Q1339,way
