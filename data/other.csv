@@ -160,7 +160,6 @@ Ingrid-Marie-Weg,wikidata,,Q486425,way
 Jacob-Lebel-Weg,wikidata,,Q280823,way
 "Johannisberger Straße",wikidata,,Q1698901,way
 "Juister Straße",wikidata,,Q24846,way
-"K 647 Sonnenberger Straße",wikidata,,Q478103,way
 Kapellenstraße,wikidata,,Q125229,way
 Karawankenstraße,wikidata,,Q198007,way
 "Karlsbader Platz",wikidata,,Q384544,way
@@ -173,17 +172,15 @@ Kellerskopfstraße,wikidata,,Q1738262,way
 Kiefernstraße,wikidata,,Q59668787,way
 "Klagenfurter Ring",wikidata,,Q41753,way
 "Klagenfurter Straße",wikidata,,Q41753,way
-"Klarenthaler Straße",wikidata,,Q553466,way
+"Klarenthaler Straße",wikidata,,Q463806;Q553466,way
 "Kleine Frankfurter Straße",wikidata,,Q1794,way
 "Kleine Schwalbacher Straße",wikidata,,Q522541,way
 "Kleine Taunusstraße",wikidata,,Q158884,way
-Konrad-Schollmayer-Straße,wikidata,,Q107552139,way
 "Kostheimer Landstraße",wikidata,,Q478710,way
 Lahnstraße,wikidata,,Q103148,way
 "Langenhainer Straße",wikidata,,Q826809,way
 "Langeooger Straße",wikidata,,Q25129,way
 "Leipziger Straße",wikidata,,Q2079,way
-Lesselallee,wikidata,,Q107552182,way
 "Liegnitzer Straße",wikidata,,Q106274,way
 Limesstraße,wikidata,,Q146924,way
 "Linzer Straße",wikidata,,Q41329,way
@@ -310,6 +307,8 @@ Welfenstraße,wikidata,,Q156433,way
 Westerwaldstraße,wikidata,,Q640966,way
 Wettinerstraße,wikidata,,Q152909,way
 "Wiener Platz",wikidata,,Q1741,way
+"Wiesbadener Landstraße",wikidata,,Q1721,way
+"Wiesbadener Straße",wikidata,,Q1721,way
 "Wildsachsener Straße",wikidata,,Q1550187,way
 "Winkeler Straße",wikidata,,Q2584478,way
 Wittelsbacherstraße,wikidata,,Q131621,way
@@ -481,11 +480,13 @@ Anhalterweg,,,,way
 Ankertorstraße,,,,way
 Anna-Birle-Straße,,,,way
 Anna-Seghers-Straße,,,,way
+"Anton-Viebig Platz",,,,way
 Anton-Zeeh-Straße,,,,way
 Apfelweg,,,,way
 Äppelallee,,,,way
 Arcade,,,,way
 Armenruhstraße,,,,way
+"Arnoldsteiner Weg",,,,way
 Aubachtal,,,,way
 Aubachweg,,,,way
 "Auf dem Bangert",,,,way
@@ -514,7 +515,6 @@ Belzbachweg,,,,way
 Bergmannstraße,,,,way
 Bergstraße,,,,way
 Bergwiesenstraße,,,,way
-"Berliner Strasse",,,,way
 Bernsteinstraße,,,,way
 Berschelsche,,,,way
 "Berstädter Grabenweg",,,,way
@@ -560,7 +560,7 @@ Burgstraße,,,,way
 Burgunderweg,,,,way
 Burgweg,,,,way
 Bürschgartenstraße,,,,way
-Carl-Frenger-Steige,,,,way
+Carl-Bender-Straße,,,,way
 Christian-Kraus-Weg,,,,way
 Dachsbergstraße,,,,way
 Dachsstraße,,,,way
@@ -597,7 +597,6 @@ Eichenweg,,,,way
 Eigenheimstraße,,,,way
 Eintrachtstraße,,,,way
 Eisenbahnstraße,,,,way
-Eisenbahnweg,,,,way
 Eisenmännchenstraße,,,,way
 Elisenstraße,,,,way
 Ellenbogengasse,,,,way
@@ -613,6 +612,7 @@ Erlenstraße,,,,way
 Ernst-Göbel-Straße,,,,way
 Fabrikstraße,,,,way
 Falkenweg,,,,way
+Färcherweg,,,,way
 "Farmer Loop",,,,way
 Fasanenweg,,,,way
 Fasaneriestraße,,,,way
@@ -622,6 +622,7 @@ Faulbrunnenplatz,,,,way
 Faulbrunnenstraße,,,,way
 Feldbergblick,,,,way
 Feldbrandstraße,,,,way
+"Feldkirchner Weg",,,,way
 Feldschützstraße,,,,way
 Feldstraße,,,,way
 Felsenstraße,,,,way
@@ -713,7 +714,6 @@ Häherweg,,,,way
 Hahnemannstraße,,,,way
 Haideweg,,,,way
 Hainbuchenweg,,,,way
-"Haingraben New-York-Str. Wiesbaden",,,,way
 Hainweg,,,,way
 "Hambacher Straße",,,,way
 Hamburgstraße,,,,way
@@ -810,6 +810,7 @@ Iltisweg,,,,way
 "Im Klaf",,,,way
 "Im Kleinboden",,,,way
 "Im Kreuzer",,,,way
+"Im Ländchen",,,,way
 "Im Lindegewann",,,,way
 "Im Mühltal",,,,way
 "Im Nachtschatten",,,,way
@@ -961,6 +962,7 @@ Ländchenweg,,,,way
 Landgrabenstraße,,,,way
 "Landsberger Straße",,,,way
 Landwehrstraße,,,,way
+"Lange Seegewann",,,,way
 Langendellschlag,,,,way
 Langfeldstraße,,,,way
 Langgasse,,,,way
@@ -997,6 +999,7 @@ Löwenterrasse,,,,way
 Luise-Ott-Straße,,,,way
 Mainpfortstraße,,,,way
 Mainroad,,,,way
+"Mallnitzer Weg",,,,way
 Mannstaedtstraße,,,,way
 Margarethenstraße,,,,way
 Marktplatz,,,,relation+way
@@ -1017,6 +1020,7 @@ Michaelisstraße,,,,way
 Michelsberg,,,,way
 Milanstraße,,,,way
 Milchstraße,,,,way
+Millstätter-See-Straße,,,,way
 Mirabellenweg,,,,way
 Mittelpfad,,,,way
 Mittelweg,,,,way
@@ -1068,7 +1072,6 @@ Neustraße,,,,way
 Niederfeldstraße,,,,way
 Nixenstraße,,,,way
 Nußbaumstraße,,,,way
-"Ober der Kappesmühle",,,,way
 Oberbergstraße,,,,way
 "Obere Kirschgartenstraße",,,,way
 "Obere Webergasse",,,,way
@@ -1084,6 +1087,7 @@ Oberstraße,,,,way
 Ochsenbrunnenweg,,,,way
 Ogelweg,,,,way
 Ohlenstraße,,,,way
+"Ossiacher Weg",,,,way
 Ost-6,,,,way
 Ostallee,,,,way
 Ostring,,,,way
@@ -1184,7 +1188,6 @@ Saalgasse,,,,way
 Sachsenstraße,,,,way
 Sackgasse,,,,way
 Salierstraße,,,,way
-Salzbachtalbrücke,,,,way
 Salzstraße,,,,way
 Sandbachstraße,,,,way
 Sandbornstraße,,,,way
@@ -1259,6 +1262,7 @@ Spelzmühlweg,,,,way
 Sperberweg,,,,way
 Spiegelgasse,,,,way
 "Spiekerooger Straße",,,,way
+"Spittaler Weg",,,,way
 Sportplatzweg,,,,way
 "St. Veiter Platz",,,,way
 Starenweg,,,,way
@@ -1347,7 +1351,6 @@ Vogelsangstraße,,,,way
 Vogelsbergstraße,,,,way
 Vogesenstraße,,,,way
 Volkerstraße,,,,way
-"Vor dem Sand",,,,way
 "Vor dem Wald",,,,way
 "Vor den Fichten",,,,way
 "Vordere Kirschgartenstraße",,,,way
@@ -1382,6 +1385,7 @@ Weinfeldstraße,,,,way
 Weingartenstraße,,,,way
 Weinhohl,,,,way
 Weismauerweg,,,,way
+Weißenseestraße,,,,way
 "Weißer Weg",,,,way
 Weitzbachstraße,,,,way
 Wellbornstraße,,,,way
@@ -1393,8 +1397,6 @@ Westfalenstraße,,,,way
 Westring,,,,way
 "Wheaton Avenue",,,,way
 Wickerbachbrücke,,,,way
-"Wiesbadener Landstraße",,,,way
-"Wiesbadener Straße",,,,way
 Wiesenhain,,,,way
 Wiesenrainstraße,,,,way
 Wiesenstraße,,,,way

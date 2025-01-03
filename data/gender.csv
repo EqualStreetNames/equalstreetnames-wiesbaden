@@ -104,6 +104,7 @@ Charles-de-Gaulle-Straße,wikidata,M,Q2042,way
 Christian-Morgenstern-Straße,wikidata,M,Q44652,way
 Christian-Spielmann-Weg,wikidata,M,Q1081948,way
 Christian-Zais-Straße,wikidata,M,Q104350,way
+Christof-Ruthof-Weg,wikidata,M,Q107659040,way
 Comeniusstraße,wikidata,M,Q12735,way
 Corneliusweg,wikidata,M,Q57257,way
 Coulinstraße,wikidata,M,Q2572284,way
@@ -281,6 +282,7 @@ Kommerzienrat-Disch-Brücke,wikidata,M,Q55847473,way
 König-Adolf-Straße,wikidata,M,Q160101,way
 Konrad-Adenauer-Ring,wikidata,M,Q2492,way
 Konrad-Arndt-Straße,wikidata,M,Q108571662,way
+Konrad-Schollmayer-Straße,wikidata,M,Q107552139,way
 Konrad-Zuse-Straße,wikidata,M,Q60093,way
 Kopernikusstraße,wikidata,M,Q619,way
 Körnerstraße,wikidata,M,Q62344,way
@@ -297,6 +299,7 @@ Lanzstraße,wikidata,M,Q1747254,way
 Lehrstraße,wikidata,M,Q1452151,way
 Leibnizstraße,wikidata,M,Q9047,way
 Lenbachstraße,wikidata,M,Q585323,way
+Lesselallee,wikidata,M,Q107552182,way
 Lessingstraße,wikidata,M,Q34628,way
 Lessingweg,wikidata,M,Q34628,way
 Liebigstraße,wikidata,M,Q16571,way
@@ -482,7 +485,6 @@ Kreitzstraße,csv,F,,way
 Prangestraße,csv,F,,way
 Prinzessin-Elisabeth-Straße,csv,F,,way
 Theodorenstraße,csv,F,,way
-4,csv,M,,way
 Adolf-Lupp-Platz,csv,M,,way
 Adolf-Schneider-Straße,csv,M,,way
 Adolf-Todt-Straße,csv,M,,way
@@ -504,11 +506,11 @@ Büdingenstraße,csv,M,,way
 Bürgermeister-Schneider-Straße,csv,M,,way
 Buschungstraße,csv,M,,way
 Cansteinsberg,csv,M,,way
+Carl-Frenger-Steige,csv,M,,way
 Christian-Bücher-Straße,csv,M,,way
-Christof-Ruthof-Weg,csv,M,,way
 Dahlemweg,csv,M,,way
-Dankwardweg,csv,M,,way
 "Dern'sches Gelände",csv,M,,relation+way
+Dr.-Thomas-Broer-Weg,csv,M,,way
 Erathstraße,csv,M,,way
 Ernst-Galonske-Straße,csv,M,,way
 Eugen-Dengel-Straße,csv,M,,way
