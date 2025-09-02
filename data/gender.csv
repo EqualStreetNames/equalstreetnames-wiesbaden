@@ -1,5 +1,4 @@
 name,source,gender,wikidata,type
-Albertstraße,wikidata,+,Q1596519;Q107419964,way
 Adelheidstraße,wikidata,F,Q266195,way
 Anne-Frank-Straße,wikidata,F,Q4583,way
 Augustastraße,wikidata,F,Q57541,way
@@ -49,6 +48,7 @@ Adolfstraße,wikidata,M,Q57302,way
 Alban-Köhler-Straße,wikidata,M,Q95293,way
 Albert-Schweitzer-Allee,wikidata,M,Q49325,way
 Albert-Schweitzer-Platz,wikidata,M,Q49325,way
+Albertstraße,wikidata,M,Q1596519;Q107419964,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
 Albrechtstraße,wikidata,M,Q55192879,way
 Alcide-de-Gasperi-Straße,wikidata,M,Q153832,way
