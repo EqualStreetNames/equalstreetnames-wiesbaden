@@ -3,8 +3,10 @@ name,source,gender,wikidata,type
 Adam-Lux-Straße,,,,way
 Adlerstraße,,,,way
 Adolfinenstraße,,,,way
+Adolphus-Busch-Weg,,,,way
 Akazienstraße,,,,way
 Akazienweg,,,,way
+Alaska-Wanderweg,,,,way
 Albertsberg,,,,way
 Alemannenstraße,,,,way
 "Allensteiner Weg",,,,way
@@ -12,6 +14,7 @@ Alemannenstraße,,,,way
 Alsbach,,,,way
 Alsbachblick,,,,way
 Alsenstraße,,,,way
+"Alt Am Flugplatz",,,,way
 "Alt Auringen",,,,way
 "Alt Medenbach",,,,way
 "Alte Brücke",,,,way
@@ -20,6 +23,7 @@ Alsenstraße,,,,way
 "Alte Pforte",,,,way
 "Alte Platter Straße",,,,way
 "Alte Rheingauer Straße",,,,way
+"Alte Römerstraße",,,,way
 "Alte Schmelze",,,,way
 "Alte Winterstraße",,,,way
 "Alter Kellerskopfweg",,,,way
@@ -46,6 +50,7 @@ Altmünsterstraße,,,,way
 "Am Erbenheimer Feld",,,,way
 "Am Erkelsborn",,,,way
 "Am Felsenkeller",,,,way
+"Am Flugplatz",,,,way
 "Am Forsthaus",,,,way
 "Am Gänsberg",,,,way
 "Am Gleisdreieck",,,,way
@@ -203,7 +208,6 @@ Berschelsche,,,,way
 "Berstädter Grabenweg",,,,way
 "Berstädter Weg",,,,way
 Bethelstraße,,,,way
-"Biebricher Allee",,,,way
 Bierhausweg,,,,way
 "Bierstadter Höhe",,,,way
 "Bierstadter Straße",,,,way
@@ -224,6 +228,7 @@ Bornbaum,,,,way
 Bornstraße,,,,way
 Borsigstraße,,,,way
 Böttcherweg,,,,way
+"Boyd Boulevard",,,,way
 "Brandenburger Straße",,,,way
 "Breckenheimer Straße",,,,way
 "Breckenheimer Weg",,,,way
@@ -255,6 +260,7 @@ Deponiestraße,,,,way
 "Die Hub",,,,way
 Dieter-Horschler-Promenade,,,,way
 Dieter-Löber-Straße,,,,way
+Domäne,,,,way
 Dorfanger,,,,way
 Dornkratz,,,,way
 Dornkratzstraße,,,,way
@@ -291,8 +297,10 @@ Emil-Pfeiffer-Weg,,,,way
 Emilienstraße,,,,way
 Entenstraße,,,,way
 Erbsenacker,,,,way
+Erdweg,,,,way
 Erlenstraße,,,,way
 Ernst-Göbel-Straße,,,,way
+Europaweg,,,,way
 Fabrikstraße,,,,way
 Falkenweg,,,,way
 Färcherweg,,,,way
@@ -339,6 +347,7 @@ Gabelsbornstraße,,,,way
 Gallierweg,,,,way
 Gänseblümchenweg,,,,way
 Gänssaalweg,,,,way
+Ganymed-Weg,,,,way
 Gartenfeldstraße,,,,way
 Gartenstraße,,,,way
 Gartenweg,,,,way
@@ -545,6 +554,7 @@ Karl-Arnold-Straße,,,,way
 Karl-Pracht-Straße,,,,way
 "Karlsbader Weg",,,,way
 Karrnweg,,,,way
+"Kaserne Walkway",,,,way
 Kastanienallee,,,,way
 Kastanienweg,,,,way
 "Kasteler Museumsufer",,,,way
@@ -669,6 +679,7 @@ Liebwiesweg,,,,way
 Lilienstraße,,,,way
 Lilienthalstraße,,,,way
 Lilienweg,,,,way
+Lilly-Anheuser-Weg,,,,way
 Lindengarten,,,,way
 Lindenstraße,,,,way
 Lindenthalstraße,,,,way
@@ -680,6 +691,7 @@ Lohmühlweg,,,,way
 Löwengasse,,,,way
 Löwenterrasse,,,,way
 Luise-Ott-Straße,,,,way
+"Main Gate Walkway",,,,way
 Mainpfortstraße,,,,way
 Mainroad,,,,way
 "Mallnitzer Weg",,,,way
@@ -717,6 +729,8 @@ Moabiterfußweg,,,,way
 Mohnweg,,,,way
 "Mombacher Straße",,,,way
 Mönchgasse,,,,way
+Mondgasse,,,,way
+Montana-Weg,,,,way
 Moritzeck,,,,way
 "Mosbacher Straße",,,,way
 Möwenstraße,,,,way
@@ -753,7 +767,9 @@ Neuberg,,,,way
 Neufeldstraße,,,,way
 Neugasse,,,,way
 Neustraße,,,,way
+New-Yorker-Landstraße,,,,way
 Niederfeldstraße,,,,way
+Niedersachsenwanderweg,,,,way
 Nixenstraße,,,,way
 Nußbaumstraße,,,,way
 Oberbergstraße,,,,way
@@ -787,6 +803,7 @@ Pfahlerstraße,,,,way
 "Pfälzer Straße",,,,way
 Pfälzer-Wald-Straße,,,,way
 Pfandlochweg,,,,way
+Pfanngasse,,,,way
 Pfarrer-Fendel-Straße,,,,way
 Pfarrer-Wermelskirchen-Weg,,,,way
 Pfarrgasse,,,,way
@@ -808,6 +825,7 @@ Plutoweg,,,,way
 Pommernstraße,,,,way
 Poststraße,,,,way
 "Potsdamer Straße",,,,way
+"Principalis Circle",,,,way
 Prinzengässchen,,,,way
 Privatstraße,,,,way
 Quellbornstraße,,,,way
@@ -872,9 +890,11 @@ Rumpelstilzchenweg,,,,way
 Rundfahrweg,,,,way
 Rüsselgasse,,,,way
 Saalgasse,,,,way
+Sachsen-Anhalt-Weg,,,,way
 Sachsenstraße,,,,way
 Sackgasse,,,,way
 Salierstraße,,,,way
+Salzleckweg,,,,way
 Salzstraße,,,,way
 Sandbachstraße,,,,way
 Sandbornstraße,,,,way
@@ -977,6 +997,7 @@ Stolze-Schrey-Straße,,,,way
 Storchenallee,,,,way
 "Straße der Republik",,,,way
 Straßenmühlweg,,,,way
+Street,,,,way
 Strohschnitterweg,,,,way
 Sudetenstraße,,,,way
 Susannastraße,,,,way
@@ -997,8 +1018,11 @@ Teufelsgraben,,,,way
 Teufelssprung,,,,way
 Theuerbornshohl,,,,way
 Thorbergweg,,,,way
+Thüringenweg,,,,way
+Thüringenwegweg,,,,way
 Thürpfad,,,,way
 Tillpetersrech,,,,way
+Titan-Passage,,,,way
 Töpferstraße,,,,way
 Tränkweg,,,,way
 Traubenstraße,,,,way
@@ -1016,6 +1040,7 @@ Turmstraße,,,,way
 "Überm Wald",,,,way
 Uferstraße,,,,way
 Uhrgässchen,,,,way
+"Umgehungsstraße Hochheim",,,,way
 "Unter den Eichen",,,,way
 "Unter den Gärten",,,,way
 Unterbornstraße,,,,way
