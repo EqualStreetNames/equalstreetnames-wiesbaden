@@ -56,7 +56,6 @@ Altmünsterstraße,,,,way
 "Am Gleisdreieck",,,,way
 "Am Gräselberg",,,,way
 "Am Großen Garten",,,,way
-"Am Grünen Baum",,,,way
 "Am Gückelsberg",,,,way
 "Am Güldenplan",,,,way
 "Am Haingraben",,,,way
@@ -72,6 +71,7 @@ Altmünsterstraße,,,,way
 "Am Hilgersbach",,,,way
 "Am Hinkelhaus",,,,way
 "Am Hochfeld",,,,way
+"Am Hof Geisberg",,,,way
 "Am Hohen Stein",,,,way
 "Am Holderstrauch",,,,way
 "Am Hosenberg",,,,way
@@ -168,6 +168,7 @@ Anhalterweg,,,,way
 Ankertorstraße,,,,way
 Anna-Birle-Straße,,,,way
 Anna-Seghers-Straße,,,,way
+Anna-von-Doemming-Straße,,,,way
 "Anton-Viebig Platz",,,,way
 Anton-Zeeh-Straße,,,,way
 Apfelweg,,,,way
@@ -249,6 +250,7 @@ Burgunderweg,,,,way
 Burgweg,,,,way
 Bürschgartenstraße,,,,way
 Carl-Bender-Straße,,,,way
+"Christdorfer Platz",,,,way
 Christian-Kraus-Weg,,,,way
 Dachsbergstraße,,,,way
 Dachsstraße,,,,way
@@ -256,6 +258,7 @@ Dahlienweg,,,,way
 Dambachtal,,,,way
 Dekan-Lindenbein-Straße,,,,way
 Deponiestraße,,,,way
+"Dern'sches Gelände",,,,relation+way
 "Dicke Allee",,,,way
 "Die Hub",,,,way
 Dieter-Horschler-Promenade,,,,way
@@ -301,6 +304,7 @@ Erdweg,,,,way
 Erlenstraße,,,,way
 Ernst-Göbel-Straße,,,,way
 Europaweg,,,,way
+Eva-Hesse-Straße,,,,way
 Fabrikstraße,,,,way
 Falkenweg,,,,way
 Färcherweg,,,,way
@@ -397,7 +401,6 @@ Haagweg,,,,way
 Habelstraße,,,,way
 Habichtweg,,,,way
 Hackenbaum,,,,way
-Hafenstraße,,,,way
 Hafenweg,,,,way
 Häfnergasse,,,,way
 Hagenstraße,,,,way
@@ -411,7 +414,7 @@ Hamburgstraße,,,,way
 Hambuschstraße,,,,way
 Hambuschweg,,,,way
 Hans-Jakob-Koch-Allee,,,,way
-Hans-Römer-Platz,,,,way
+Hans-Römer-Platz,,,,relation
 Hänselweg,,,,way
 Hardtstraße,,,,way
 "Hargis Street",,,,way
@@ -422,7 +425,6 @@ Haselstraße,,,,way
 Hasengartenstraße,,,,way
 Hasenspitz,,,,way
 Hasenstraße,,,,way
-Hauptstraße,,,,way
 Hauptwache,,,,way
 "Haus Echotal",,,,way
 Heckenweg,,,,way
@@ -579,7 +581,6 @@ Kirchbornstraße,,,,way
 Kirchenhügel,,,,way
 Kirchenreulchen,,,,way
 Kirchenstück,,,,way
-Kirchgasse,,,,way
 Kirchhohl,,,,way
 Kirchplatz,,,,way
 Kirchspiel,,,,way
@@ -610,6 +611,7 @@ Klosterpfad,,,,way
 Klosterweg,,,,way
 Kochbrunnenplatz,,,,relation+way
 Kochhüttenweg,,,,way
+Kochweg,,,,way
 Koepfchenweg,,,,way
 Kohlenmeilerweg,,,,way
 Kohlheckstraße,,,,way
@@ -643,6 +645,7 @@ Kröckelbergstraße,,,,way
 Krokusweg,,,,way
 "Kronberger Straße",,,,way
 Kronenstraße,,,,way
+Kronprinzenstraße,,,,way
 Kuckucksweg,,,,way
 Kuhtränkweg,,,,way
 Kühweg,,,,way
@@ -697,7 +700,6 @@ Mainroad,,,,way
 "Mallnitzer Weg",,,,way
 Mannstaedtstraße,,,,way
 Margarethenstraße,,,,way
-Marktplatz,,,,relation+way
 "Marschaller Weg",,,,way
 Marsweg,,,,way
 Matterhornstraße,,,,way
@@ -764,6 +766,7 @@ Nerostraße,,,,way
 Nerotal,,,,way
 Neuberg,,,,way
 "Neue Schulstraße",,,,way
+Neufeldstr.,,,,way
 Neufeldstraße,,,,way
 Neugasse,,,,way
 Neustraße,,,,way
@@ -794,7 +797,6 @@ Ostring,,,,way
 Panoramastraße,,,,way
 Panoramaweg,,,,way
 Pappelweg,,,,way
-Paradiesgässchen,,,,way
 Parkweg,,,,way
 Paulusplatz,,,,way
 Petersweg,,,,way
@@ -835,7 +837,6 @@ Rampenstraße,,,,way
 Rasselweg,,,,way
 Rathaus-Passage,,,,way
 Rathausplatz,,,,way
-Rathausstraße,,,,way
 Ratsherrenweg,,,,way
 "Rauenthaler Straße",,,,way
 Rebenstraße,,,,way
@@ -923,7 +924,6 @@ Schleswigstraße,,,,way
 Schleusenstraße,,,,way
 Schlossgasse,,,,way
 Schlossplatz,,,,relation+way
-Schloßplatz,,,,way
 Schmalweg,,,,way
 Schneebergstraße,,,,way
 Schneewittchenweg,,,,way
@@ -997,7 +997,6 @@ Stolze-Schrey-Straße,,,,way
 Storchenallee,,,,way
 "Straße der Republik",,,,way
 Straßenmühlweg,,,,way
-Street,,,,way
 Strohschnitterweg,,,,way
 Sudetenstraße,,,,way
 Susannastraße,,,,way
@@ -1032,7 +1031,7 @@ Trockenbornweg,,,,way
 Trommlerweg,,,,way
 Trompeter-Rennpfad,,,,way
 Trompeterstraße,,,,way
-Trompetestraße,,,,way
+Trompeterweg,,,,way
 Tulpenstraße,,,,way
 Tulpenweg,,,,way
 Turmstraße,,,,way
